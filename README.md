@@ -1,5 +1,8 @@
+<div style="width: 100%;">
+  <img src="./svg/main.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c00ff,100:d800f5&height=240&text=FantaSmith%20Zen&animation=fadeIn&fontColor=ffffff&fontSize=70" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <div align="center">🧑‍💻 상상을 구현하는 개발자 🧑‍💻</div> </h2>  
@@ -30,4 +33,3 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=effozen&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    
