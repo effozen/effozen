@@ -1,34 +1,17 @@
-<!--
-**effozen/effozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25&height=300&section=header&text=FantaSmith%20Zen&fontSize=90)
-
 
 <table border="0" width="100%">
 <tr>
-<td width="50%">
+<td width="30%">
 <div align="center">
-    <img src="./img/Symbol.png" alt="" width="30%">
+    <img src="./img/Symbol.png" alt="">
 </div>        
 </td>
 <td width="50%">
-    컨텐츠
+    컨텐츠 테스트
 </td>
 </tr>
 </table>
-
 
 
 <br/><br/>
