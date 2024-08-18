@@ -35,6 +35,14 @@
         </tr>
         <tr>
         <td>
+            2022.07. ~ 2022.10.
+        </td>
+        <td>
+            <a href="http://securesw.dankook.ac.kr/index.html">단국대학교 운영체제 및 보안연구실</a> 학부 연구생 (분야 : 안드로이드 보안)<br/>&nbsp;&nbsp;&nbsp;&nbsp;▶︎ 작성 논문 :: <a href="https://www.earticle.net/Article/A419813">A Study on Android Emulator Detection Using Build Properties</a>
+        </td>
+        </tr>
+        <tr>
+        <td>
             2021.01. ~ 2022.07.
         </td>
         <td>
