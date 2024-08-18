@@ -44,7 +44,7 @@
     </table>
     </div>
     <br/>
-    <h3> 🏅 자격증 🏅 </h3>
+    <h3> 🏅 자격증 & 상장 🏅 </h3>
     <div align="center">
     <table>
         <tr>
