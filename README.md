@@ -1,6 +1,6 @@
 <a href="https://fantasmith.com">
 <div style="width: 100%;">
-    <img src="./svg/mai" style="width: 100%;" alt="Click to see the source">
+    <img src="./svg/main.svg" style="width: 100%;" alt="클릭해서 Zen's Atelier로 들어가기">
 </div>
 </a>
 
