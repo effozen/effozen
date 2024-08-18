@@ -16,7 +16,18 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25&height=300&section=header&text=FantaSmith%20Zen&fontSize=90)
 
 
-<table/></table>
+<table border="0" width="100%">
+<tr>
+<td width="50%">
+<div align="center">
+    <img src="./img/Symbol.png" alt="" width="30%">
+</div>        
+</td>
+<td width="50%">
+    컨텐츠
+</td>
+</tr>
+</table>
 
 
 
