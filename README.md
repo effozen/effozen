@@ -22,7 +22,15 @@
             2017.03. ~ 2025.02.
         </td>
         <td>
-            단국대학교 소프트웨어학과 학사 (졸업예정)
+            단국대학교 소프트웨어학과 학사<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 2025.02. 졸업예정
+        </td>
+        </tr>
+        <tr>
+        <td>
+            2022.07. ~ 2022.12.
+        </td>
+        <td>
+            한국콘텐츠진흥원 콘텐츠임팩트 창업 후속지원팀 기획 및 FE 개발<br/>&nbsp;&nbsp;&nbsp;&nbsp;▶︎ 팀명 - MUSAIN :: https://youtu.be/evu5PrmdKAE?feature=shared 
         </td>
         </tr>
         <tr>
@@ -30,11 +38,45 @@
             2021.01. ~ 2022.07.
         </td>
         <td>
-            카투사(KATUSA) 병장 만기 전역<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 미육군공로훈장(ARCOM) 수여
+            카투사(KATUSA) 병장 만기 전역<br/>&nbsp;&nbsp;&nbsp;&nbsp;▶︎ <strong>미육군공로훈장(ARCOM)</strong> 수여
         </td>
         </tr>
     </table>
-</div>
+    </div>
+    <br/>
+    <h3> 🏅 자격증 🏅 </h3>
+    <div align="center">
+    <table>
+        <tr>
+        <th>내용</th>
+        <th>기타</th>
+        </tr>
+        <tr>
+        <td>
+            Chaninalysis Reactor Certification(CRC) 
+        </td>
+        <td>
+            블록체인 암호화폐 추적 훈련 증명
+        </td>
+        </tr>
+        <tr>
+        <td>
+            The Army Commendation Medal (From Department of the Army of the United States)
+        </td>
+        <td>
+            미육군공로훈장
+        </td>
+        </tr>
+        <tr>
+        <td>
+            Certification of Appreciation (From Department of the Army of the United States)
+        </td>
+        <td>
+            미육군감사장
+        </td>
+        </tr>
+    </table>
+    </div>
     </div> 
     </div>
     <br/>
