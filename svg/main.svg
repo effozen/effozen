@@ -75,7 +75,6 @@
                 }
 
                 h2 a span:nth-child(1) em {
-<!--                margin-top: 0px;-->
                 line-height: 1rem;
                 margin-bottom: -9.5px;
                 }
@@ -125,7 +124,7 @@
                 }
 
                 ul {
-                animation: fade 1s linear;
+                animation: fade 2s linear;
                 font-size: 18px;
                 line-height: 26px;
                 color: var(--color-main);
@@ -152,29 +151,25 @@
                 }
 
                 ul li span:nth-child(1) {
-<!--                margin-top: -0.5px;-->
-                margin-left:10px;
-                margin-right:10px;
+                margin-left: 10px;
+                margin-right: 10px;
                 color: var(--color-secondary);
                 }
 
                 ul li span:nth-child(1):hover {
-                    transform: translate(0px, -3px);
-                    text-shadow: 0px 0px 30px var(--color-notBackground);
+                transform: translate(0px, -3px);
+                text-shadow: 0px 0px 30px var(--color-notBackground);
                 }
 
                 ul li span:nth-child(2) {
-<!--                margin-top: -0.7px;-->
-                margin-left:10px;
+                margin-left: 10px;
                 color: var(--color-primary);
                 }
-
 
                 ul li span:nth-child(2):hover {
                 transform: translate(0px, -3px);
                 text-shadow: 0px 0px 30px var(--color-notBackground);
                 }
-
 
                 ul li a:hover {
                 transform: translate(0px, -3px);
@@ -208,90 +203,6 @@
                 background-position: 0 0;
                 }
                 }
-
-<!--                @keyframes hi {-->
-<!--                25% {-->
-<!--                transform: rotate(0deg);-->
-<!--                }-->
-
-<!--                30% {-->
-<!--                transform: rotate(15deg);-->
-<!--                }-->
-
-<!--                35% {-->
-<!--                transform: rotate(0deg);-->
-<!--                }-->
-
-<!--                40% {-->
-<!--                transform: rotate(15deg);-->
-<!--                }-->
-
-<!--                45% {-->
-<!--                transform: rotate(0deg);-->
-<!--                }-->
-
-<!--                80% {-->
-<!--                transform: rotate(0deg);-->
-<!--                }-->
-
-<!--                85% {-->
-<!--                transform: rotate(15deg);-->
-<!--                }-->
-
-<!--                90% {-->
-<!--                transform: rotate(0deg);-->
-<!--                }-->
-
-<!--                95% {-->
-<!--                transform: rotate(15deg);-->
-<!--                }-->
-
-<!--                100% {-->
-<!--                transform: rotate(0deg);-->
-<!--                }-->
-<!--                }-->
-
-<!--                @keyframes hi {-->
-<!--                25% {-->
-<!--                background-color: #ff006e;-->
-<!--                }-->
-
-<!--                30% {-->
-<!--                background-color: #3a86ff;-->
-<!--                }-->
-
-<!--                35% {-->
-<!--                background-color: #ff006e;-->
-<!--                }-->
-
-<!--                40% {-->
-<!--                background-color: #3a86ff;-->
-<!--                }-->
-
-<!--                45% {-->
-<!--                background-color: #ff006e;-->
-<!--                }-->
-
-<!--                80% {-->
-<!--                background-color: #ff006e;-->
-<!--                }-->
-
-<!--                85% {-->
-<!--                background-color: #3a86ff;-->
-<!--                }-->
-
-<!--                90% {-->
-<!--                background-color: #ff006e;-->
-<!--                }-->
-
-<!--                95% {-->
-<!--                background-color: #3a86ff;-->
-<!--                }-->
-
-<!--                100% {-->
-<!--                background-color: #ff006e;-->
-<!--                }-->
-<!--                }-->
 
                 @keyframes intro {
                 0%,
@@ -356,6 +267,7 @@
                 letter-spacing: .5em;
                 display: block;
                 text-align: center;
+                animation: fade 1s linear;
                 }
 
                 h1 span {
@@ -376,40 +288,28 @@
                 }
 
                 h1 span:hover {
-<!--                transform: translate(3px, -3px);-->
                 text-shadow: 0px 0px 5px rgba(255, 255, 255, .5);
                 }
 
                 @keyframes hi {
-                    25% {
-                    background-position: 50% 50%;
-                    }
-                    50% {
-                    background-position: 100% 100%;
-                    }
-                    75% {
-                    background-position: 50% 50%;
-                    }
-                    100% {
-                    background-position: 0% 0%;
-                    }
+                25% {
+                background-position: 50% 50%;
                 }
-
-
-                @-webkit-keyframes aitf {
-                0% {
-                background-position: 0% 50%;
+                50% {
+                background-position: 100% 100%;
                 }
-
+                75% {
+                background-position: 50% 50%;
+                }
                 100% {
-                background-position: 100% 50%;
+                background-position: 0% 0%;
                 }
                 }
             </style>
             <div class='body'>
                 <div class='container'>
                     <h2>
-                        <a href="https://effozen.com">
+                        <a href="https://fantasmith.com/">
                             <span><em>FantaSmith</em></span>
                             <span><em>FantaSmith</em></span>
                             <span><em>FantaSmith</em></span>
@@ -426,7 +326,7 @@
                             <br/>
                         </ul>
                         <ul>
-                            <li>VISIT<a href="https://pragmaticpineapple.com">🔗 Zen's Atelier 🔗</a></li>
+                            <li>VISIT<a href="https://fantasmith.com/">🔗 Zen's Atelier 🔗</a></li>
                         </ul>
                     </section>
                 </div>
