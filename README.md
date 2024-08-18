@@ -11,6 +11,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center;"> 
     <h3>🐥 FrontEnd 개발자</h3>
     📰 <a href="https://fantasmith.com/"> 개인사이트 : Zen's Atelier </a>
+        <br/> 🚧 현재 리뉴얼 중... 🚧 
     <br/>
     <br/>
     <h3> 🏫 이력 🏫</h3>
