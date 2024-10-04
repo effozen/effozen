@@ -26,7 +26,7 @@
             2017.03. ~ 2025.02.
         </td>
         <td>
-            단국대학교 소프트웨어학과 학사<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 2025.02. 졸업 예정<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 2019.09.(1학년 1학기) SW융합대학 단과대 수석 <br/>&nbsp;&nbsp;&nbsp;&nbsp;- 2020.02.(1학년 2학기) 소프트웨어학과 수석
+            단국대학교 소프트웨어학과 학사<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 2025.02. 졸업 예정<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 2020.02.(1학년 2학기) 소프트웨어학과 수석<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 2019.09.(1학년 1학기) SW융합대학 단과대 수석
         </td>
         </tr>
         <tr>
