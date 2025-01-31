@@ -11,7 +11,6 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center;"> 
     <h3>🐥 FrontEnd 개발자</h3>
     📰 <a href="https://fantasmith.com/"> 개인사이트 : Zen's Atelier </a>
-        <br/> 🚧 현재 리뉴얼 중... 🚧 
     <br/>
     <br/>
     <h3> 🏫 이력 🏫</h3>
@@ -20,6 +19,22 @@
         <tr>
         <th>연도</th>
         <th>내용</th>
+        </tr>
+        <tr>
+        <td>
+            2025.01. ~ 2025.04.
+        </td>
+        <td>
+            네이버 웹툰 프론트엔드 체험형 인턴<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 작가들을 위한 저작도구 개발
+        </td>
+        </tr>
+        <tr>
+        <td>
+            2025.12. ~ 2025.03.
+        </td>
+        <td>
+            항해 플러스 프론트엔드 4기<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 2025.03. 수료 예정
+        </td>
         </tr>
         <tr>
         <td>
@@ -34,7 +49,7 @@
             2024.07. ~ 2024.12.
         </td>
         <td>
-            네이버 부스트캠프 웹⋅모바일 9기<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 2024.12. 수료 예정
+            네이버 부스트캠프 웹⋅모바일 9기<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 2024.12. 수료
         </td>
         </tr>
         <tr>
