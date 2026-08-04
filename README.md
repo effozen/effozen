@@ -22,6 +22,18 @@
         </tr>
         <tr>
         <td>
+            2025.07. ~ 
+        </td>
+        <td>
+            네이버 웹툰 프론트엔드 개발 및 AI Product Engineering<br/>&nbsp;&nbsp;&nbsp;&nbsp;- AI 캐릭터 창작 서비스 개발 및 Byus 개발
+        </td>
+        <td>
+            2025.04. ~ 2025.07.
+        </td>
+        <td>
+            네이버 웹툰 프론트엔드 체험형 인턴<br/>&nbsp;&nbsp;&nbsp;&nbsp;- AI 캐릭터 창작 서비스 개발
+        </td>
+        <td>
             2025.01. ~ 2025.04.
         </td>
         <td>
